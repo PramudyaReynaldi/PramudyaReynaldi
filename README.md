@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramudyareynaldi&label=Profile%20views&color=0e75b6&style=flat" alt="pramudyareynaldi" /> </p>
 
-- 🌱 I’m currently learning **Fullstack Web Developer, Binar Academy**
+- 🌱 I’m currently learning about **Front End Web Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PramudyaReynaldi?tab=repositories](https://github.com/PramudyaReynaldi?tab=repositories)
 

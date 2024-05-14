@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning about **Front End Web Developer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PramudyaReynaldi?tab=repositories](https://github.com/PramudyaReynaldi?tab=repositories)
+- 👨‍💻 All of my projects are available at [ReyTech](https://reytech.vercel.app/) website
 
 - 💬 Ask me about **Fullstack Web Developer**
 
